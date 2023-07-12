@@ -92,5 +92,3 @@
   $ python manage.py runserver
   ```
   <hr/>
-
-test
